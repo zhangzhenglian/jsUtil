@@ -1,0 +1,22 @@
+{
+  "name": "zl-jsutil",
+  "version": "1.0.0",
+  "description": "政连的js工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzhenglian/jsUtil.git"
+  },
+  "keywords": [
+    "zl"
+  ],
+  "author": "Error",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzhenglian/jsUtil/issues"
+  },
+  "homepage": "https://github.com/zhangzhenglian/jsUtil#readme"
+}
